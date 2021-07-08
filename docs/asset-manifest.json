@@ -1,0 +1,45 @@
+{
+  "_chunksMap": {
+    "umi": [
+      "/umi.css",
+      "/umi.js"
+    ],
+    "p__404": [
+      "/p__404.js"
+    ],
+    "p__index": [
+      "/p__index.chunk.css",
+      "/p__index.js"
+    ],
+    "p__login": [
+      "/p__login.js"
+    ],
+    "p__user": [
+      "/p__user.js"
+    ],
+    "wrappers": [
+      "/wrappers.js"
+    ]
+  },
+  "p__404.js": "/p__404.js",
+  "p__404.js.map": "/p__404.js.map",
+  "p__index.css": "/p__index.chunk.css",
+  "p__index.js": "/p__index.js",
+  "p__index.css.map": "/p__index.chunk.css.map",
+  "p__index.js.map": "/p__index.js.map",
+  "p__login.js": "/p__login.js",
+  "p__login.js.map": "/p__login.js.map",
+  "p__user.js": "/p__user.js",
+  "p__user.js.map": "/p__user.js.map",
+  "umi.css": "/umi.css",
+  "umi.js": "/umi.js",
+  "umi.css.map": "/umi.css.map",
+  "umi.js.map": "/umi.js.map",
+  "wrappers.js": "/wrappers.js",
+  "wrappers.js.map": "/wrappers.js.map",
+  "404/index.html": "/404/index.html",
+  "index.html": "/index.html",
+  "login/index.html": "/login/index.html",
+  "static/foo.png": "/static/foo.c1627df6.png",
+  "user/index.html": "/user/index.html"
+}
