@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[3],{JoNJ:function(e,r,n){"use strict";n.r(r);n("q1tI");var t=n("nKUr");function s(){return Object(t["jsx"])("div",{children:"User"})}s.wrappers=["@/wrappers/auth"],s.title="Home Page User",r["default"]=s}}]);

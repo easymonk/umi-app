@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[5],{GZYO:function(n,i,r){"use strict";r.r(i);r("q1tI");var t=r("7AqN"),e=r("nKUr");function o(){return{isLogin:!0}}i["default"]=n=>{var i=o(),r=i.isLogin;return r?Object(e["jsx"])("div",{children:n.children}):Object(e["jsx"])(t["a"],{to:"/login"})}}}]);
