@@ -39,5 +39,9 @@ export default defineConfig({
   ],
   hash: true,
   outputPath: "docs",
-  publicPath: process.env.NODE_ENV === 'production' ? '/umi-app/' : '/',
+  // publicPath: process.env.NODE_ENV === 'production' ? '/umi-app/' : '/',
+  publicPath: '/umi-app/',
+  base: '/umi-app/',
+  // publicPath: '/',
+  // base: '/'
 });
