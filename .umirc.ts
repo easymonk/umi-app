@@ -10,9 +10,9 @@ export default defineConfig({
   // ],
   // history: { type: 'hash' },
   dynamicImport: {},
-  ssr: {
-    mode: 'stream'
-  },
+  // ssr: {
+  //   mode: 'stream'
+  // },
   exportStatic: {},
   fastRefresh: {},
   // mfsu:{},
@@ -38,5 +38,6 @@ export default defineConfig({
    }),
   ],
   hash: true,
-  outputPath: "docs"
+  outputPath: "docs",
+  publicPath: process.env.NODE_ENV === 'production' ? '/umi-app/' : '/',
 });
